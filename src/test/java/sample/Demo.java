@@ -10,4 +10,8 @@ public class Demo
 		System.out.println("hi this is first commit");
 	}
 
+	public void ramu()
+	{
+		System.out.println("njsnskjgnskjgnkjv");
+	}
 }
